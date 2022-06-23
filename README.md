@@ -1,5 +1,3 @@
-### Hello 👋
-
 <!--
 **noparkee/noparkee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# noparkee
+```
+✨ Welcome to my github :) ✨
+```
+[my cv](https://github.com/noparkee/noparkee/blob/main/noparkee%20CV.pdf)
+
+_I'm interested in... 🥰_
+--- 
+- Domain Generalization
+- eXplainable Artificial Intelligence
+- Computer Vision
+
+_I’m currently working on... 🤓_
+--- 
+- Behavior/Trajectory Prediction with Domain Generalization
