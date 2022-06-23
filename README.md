@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 ```
 [my cv](https://github.com/noparkee/noparkee/blob/main/noparkee%20CV.pdf)
 
-_I'm interested in... 🥰_
+I'm interested in 🥰
 --- 
 - Domain Generalization
 - eXplainable Artificial Intelligence
 - Computer Vision
 
-_I’m currently working on... 🤓_
+I’m currently working on 🤓
 --- 
 - Behavior/Trajectory Prediction with Domain Generalization
