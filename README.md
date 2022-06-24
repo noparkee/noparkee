@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```
 ✨ Welcome to my github :) ✨
 ```
-[my cv](https://github.com/noparkee/noparkee/blob/main/noparkee%20CV.pdf)
+[my cv](https://github.com/noparkee/noparkee/blob/main/noparkee%20cv.pdf)
 
 I'm interested in 🥰
 --- 
