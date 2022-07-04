@@ -12,19 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# noparkee
 ```
-✨ Welcome to my github :) ✨
+✨ Welcome to @noparkee's github :) ✨
 ```
-[MY CV](https://github.com/noparkee/noparkee/blob/main/noparkee%20cv.pdf)
+# _noparkee_ 🧸
+[CV](https://github.com/noparkee/noparkee/blob/main/noparkee%20cv.pdf)
 
-I'm interested in 🥰
---- 
-- Domain Generalization
-- eXplainable Artificial Intelligence
-- Computer Vision
+### I’m currently working on
+```
+🤓 Behavior/Trajectory Prediction with Domain Generalization
+```
 
-I’m currently working on 🤓
---- 
-- Behavior/Trajectory Prediction with Domain Generalization
+### I'm interested in 
+```
+🔥 Domain Generalization
+🤖 eXplainable Artificial Intelligence
+🎨 Computer Vision
+```
