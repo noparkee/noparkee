@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ✨ Welcome to @noparkee's github :) ✨
 ```
 # _noparkee_ 🧸
-[CV](https://github.com/noparkee/noparkee/blob/main/noparkee%20cv.pdf)
+[CV](https://github.com/noparkee/noparkee/blob/main/noparkee_CV.pdf)
 
 ### I’m currently working on
 ```
