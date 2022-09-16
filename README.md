@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### I’m currently working on
 ```
-🤓 Behavior/Trajectory Prediction with Domain Generalization
+🤓 Domain Generalization with Graph
 ```
 
 ### I'm interested in 
