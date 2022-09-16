@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```
-✨ Welcome to @noparkee's github :) ✨
+✨ Welcome to noparkee's github :) ✨
 ```
 # _noparkee_ 🧸
 [CV](https://github.com/noparkee/noparkee/blob/main/noparkee_CV.pdf)
