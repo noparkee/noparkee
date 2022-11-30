@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### I’m currently working on
 ```
-🤓 Domain Generalization with Graph
+🤓 Graph-based Domain Generalization
 ```
 
 ### I'm interested in 
