@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ### I'm interested in 
 ```
 🔥 Domain Generalization
-🤖 eXplainable Artificial Intelligence
+💎 Multimodal Learning
+<!-- 🤖 eXplainable Artificial Intelligence -->
 🎨 Computer Vision
 ```
