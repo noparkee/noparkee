@@ -12,13 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### _Nokyung Park_ 🧸
 ```
-✨ Welcome to noparkee's github :) ✨
+✨ Welcome to my github :) ✨
 ```
-# _noparkee_ 🧸
 [[HomePage]](https://sites.google.com/view/nokyung-park)   [[CV]](https://github.com/noparkee/noparkee/blob/main/noparkee_CV.pdf)
 
-### I’m currently working on
+<!-- ### I’m currently working on
 ```
 🤓 Human Feedback on CV
 🧐 Domain Incremental Learning
@@ -30,4 +31,6 @@ Here are some ideas to get you started:
 💎 Multimodal Learning
 🎨 Computer Vision
 ```
+-->
+
 <!-- 🤖 eXplainable Artificial Intelligence -->
